@@ -1,6 +1,6 @@
 id=DisCal
 name=Display Calibration
-version=v1.0
-versionCode=10
+version=v1.25
+versionCode=125
 author=Adinata
-description=Enhance Display Calibration for Universal Android Devices.
+description=Enhance Display Calibration (SurfaceFlinger) for Universal Android devices.
