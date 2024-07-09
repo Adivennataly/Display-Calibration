@@ -11,7 +11,7 @@
   - persist.sys.sf.native_mode 0
   - persist.sys.sf.color_saturation 1.25
 
- maximum value 1.5
+ maximum value 1.5 (using 1.25)
 
 ## Requirement
  this is module so install using Magisk app.
