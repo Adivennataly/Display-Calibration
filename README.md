@@ -2,6 +2,7 @@
  Enhance Display Color Saturation for Universal Android Devices.
 
  this module using SurfaceFlinger service 
+ 
 
  service running :
   - service call SurfaceFlinger 1023 i32 0
@@ -11,7 +12,7 @@
   - persist.sys.sf.native_mode 0
   - persist.sys.sf.color_saturation 1.25
 
- maximum value 1.5 (using 1.25)
+ *default value 1.0, maximum value 1.5 (using 1.25)
 
 ## Requirement
  this is module so install using Magisk app.
