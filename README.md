@@ -5,12 +5,12 @@
  
 
  service running :
-  - service call SurfaceFlinger 1023 i32 0
-  - service call SurfaceFlinger 1022 f 1.25
+  - `service call SurfaceFlinger 1023 i32 0`
+  - `service call SurfaceFlinger 1022 f 1.25`
  
  properties :
-  - persist.sys.sf.native_mode 0
-  - persist.sys.sf.color_saturation 1.25
+  - `persist.sys.sf.native_mode 0`
+  - `persist.sys.sf.color_saturation 1.25`
 
  *default value 1.0, maximum value 1.5
 
