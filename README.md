@@ -1,5 +1,5 @@
 ## Display Calibration 
- Enhance Display Color Saturation for Universal Android Devices.
+ Enhance Display color saturation (saturation only not gammut coverage) for universal Android devices.
 
  this module using SurfaceFlinger services
  
@@ -12,7 +12,7 @@
   - persist.sys.sf.native_mode 0
   - persist.sys.sf.color_saturation 1.25
 
- *default value 1.0, maximum value 1.5 (using 1.25)
+ *default value 1.0, maximum value 1.5
 
 ## Requirement
  this is module so install using Magisk app.
