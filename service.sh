@@ -19,4 +19,3 @@ sleep 40
 
 service call SurfaceFlinger 1023 i32 0
 service call SurfaceFlinger 1022 f 1.25
-
