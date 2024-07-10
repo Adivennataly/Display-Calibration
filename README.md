@@ -1,7 +1,7 @@
 ## Display Calibration 
  Enhance Display Color Saturation for Universal Android Devices.
 
- this module using SurfaceFlinger service 
+ this module using SurfaceFlinger services
  
 
  service running :
