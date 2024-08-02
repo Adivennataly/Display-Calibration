@@ -1,5 +1,5 @@
 ## Display Calibration 
- Enhance Display color saturation (saturation only not gammut coverage) for universal Android devices.
+ Enhance Display color saturation (saturation only not gamut coverage) for universal Android devices.
 
  this module using SurfaceFlinger services
  
